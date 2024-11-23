@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @lasseka51
-- 👀 I’m interested in idehistoria medicin poltik,boxning mm..
-- 🌱 I’m currently learning ...AI,historia 
-- 💞️ I’m looking to collaborate on ...medicins utvecklinh
+- 👀 I’m interested in idehistoria medicin poltik,boxning,trummor och mycket annat
+- 🌱 I’m currently learning AI samt historia 
+- 💞️ I’m looking to collaborate on ...medicinsk utvecklinh
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Hur hittar man alltid tillbaka till ettan I takten som trummis 
 
 <!---
 lasseka51/lasseka51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
